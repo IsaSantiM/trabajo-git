@@ -1,3 +1,7 @@
 hola jemima 
 
-boba desde el main 
+<<<<<<< HEAD
+boba desde el main, arreglando problemas
+=======
+boba  desde la rama prueba 
+>>>>>>> prueba 

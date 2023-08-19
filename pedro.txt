@@ -1,3 +1,7 @@
 hola pedrito c:
 
-haciendo unos cambios
+<<<<<<< HEAD
+haciendo unos cambios, desde main 
+=======
+escrito desde la rama pedro 
+>>>>>>> prueba
